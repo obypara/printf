@@ -1,0 +1,1 @@
+printf task for partners
